@@ -1,11 +1,5 @@
-<p align="center">
-  <a href="https://nodejs.org/">
-    <img
-      alt="Node.js"
-      src="https://nodejs.org/static/images/logo-light.svg"
-      width="400"
-    />
-  </a>
-</p>
+# NB
+Dette repository er flyttet til https://github.com/Webudvikler-TechCollege/nodeclass.git
+
 # nodeclass
 Introduktion og øvelser til node
